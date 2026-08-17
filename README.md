@@ -1,7 +1,5 @@
 # Amazon-Sales-Analysis-Dashboard-PowerBI
 
-# Amazon Sales Analysis Dashboard | Power BI
-
 ## 📊 Project Overview
 
 This project presents an interactive **Amazon Sales Analysis Dashboard built using Microsoft Power BI**. The dashboard focuses on comparing sales performance across four key business dimensions:
@@ -166,7 +164,7 @@ Through this project, I gained hands-on experience in:
 ## 📁 Project Files
 
 - `Amazon Sales Report.pbix` — Power BI dashboard
-- `Amazon Sales Report.pdf` — Dashboard preview
+- [`Amazon Sales Report.pdf`](https://github.com/Aishwaryab2026/Amazon-Sales-Analysis-Dashboard-PowerBI/blob/main/amazon%20sales%20dashboard.pdf) — Dashboard preview
 
 ---
 
