@@ -1,4 +1,5 @@
 # Amazon-Sales-Analysis-Dashboard-PowerBI
+![Amazon Sales Analysis Dashboard](Amazon%20sales%20banner.png)
 
 ## 📊 Project Overview
 
